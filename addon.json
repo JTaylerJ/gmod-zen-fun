@@ -1,5 +1,6 @@
 {
 	"title": "Zen Fun Activities",
-	"type": "ServerContent",
-	"tags":	[ "cartoon" ]
+	"type": "servercontent",
+	"tags": [],
+	"ignore": []
 }
